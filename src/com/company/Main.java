@@ -6,12 +6,12 @@ import java.util.Scanner;
 public class Main {
        public static void main(String[] args) {
            String myAge;
+
+
            final int NUM = 32;
            String word = " кошка";
            myAge = NUM + word;
            System.out.println(myAge);
-
-
            if (NUM < 0) {
                System.out.println("“Вы сохранили отрицательное число");
            } else if (NUM > 0) {
