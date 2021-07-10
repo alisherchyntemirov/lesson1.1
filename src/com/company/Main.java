@@ -8,6 +8,9 @@ public class Main {
            String myAge;
 
 
+
+
+
            final int NUM = 32;
            String word = " кошка";
            myAge = NUM + word;
