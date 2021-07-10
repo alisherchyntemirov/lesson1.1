@@ -11,6 +11,7 @@ public class Main {
            myAge = NUM + word;
            System.out.println(myAge);
 
+
            if (NUM < 0) {
                System.out.println("“Вы сохранили отрицательное число");
            } else if (NUM > 0) {
